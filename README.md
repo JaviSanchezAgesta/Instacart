@@ -34,13 +34,13 @@ For this project the following Python libraries were used:
 
 The code is available as jupyter notebooks, available in the different subfolders:
 
-- Analysis: part dedicated to exercises where we find out answers to the business questions
+- 1. Project Management: Data Project brief document containing information and descriptions of main aspects of our analysis, such as 'Objective', 'Context', 'Key questions', 'Stakeholders', 'Data sources', 'Analysis criteria', 'Terminology' and 'Project deliverables'
 
-- Importing & Exporting data: coding on how to import and export data in different formats
+- 2. Scripts: this folder contains the Jupyter notebooks created for this analysis, including cleaning and wrangling the data, consistency checks,  subsetting and creating new variables, and data visualization.
 
-- Making data consistent: different consistency checks and techniques for cleaning and wrangling data
+- 3. Analysis - Visualizations: in this folder we can find the main visualizations produced through the analysis with Seaborn and maplotlib. Includes line, bar and pie charts. 
 
-- Making groups, new Variables and Data Visualization: Coding for combining data sets, creating new variables from those combinations and some introductory data visualization
+- 4. Sent to client: Excel file containing the report ready to be sent to our client. In it we can find a step by step guide for our analysis, including the population flow of our data, description on the wrangling and cleaning performed tasks, visualizations with explanations and the final recommendations.
 
-- Cleaned and Wrangled Data: CSV files after cleaning and wrangling original data with Python
+- Cleaned and Wrangled Data: CSV & pkl files resulted after cleaning and wrangling original data with Python.
  
